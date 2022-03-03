@@ -1,3 +1,4 @@
+#import from rpg_combat
 from rpg_combat.character import Character
 
 def test_character_starts_alive():
